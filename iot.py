@@ -1,6 +1,6 @@
 import random
 import time
-from awscrt import mqtt, http
+from awscrt import mqtt
 from awsiot import mqtt_connection_builder
 import json
 
